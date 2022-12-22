@@ -1,5 +1,13 @@
 # Todo
 
+## Instalações:
+Angular cli( npm install -g @angular/cli )
+Typescript( npm install typescript -g typescript )
+Json-server( npm install -g json-server )
+
+#### Rodar o Projeto ( npm start )
+#### Rodar o mock( json-server --watch banco-de-dados.json )
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
 ## Development server
